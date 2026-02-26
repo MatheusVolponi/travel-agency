@@ -9,7 +9,8 @@ header {
 }
 
 .logo {
-  display: inline-block;
+  display: flex;
+  align-items: center;
   width: 68px;
   height: 64px;
 }
